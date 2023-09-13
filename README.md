@@ -3,15 +3,16 @@
 <h2>Abstact</h2>
 This is a repository that contains more than 800 add-ons, which are pieces that you can assemble to create complete and original wearables in Decentraland without having knowledge of 3D modeling. Below are some steps to create a wearable using add-ons.
 
-* If you think there is something that can be improved in this repository, please feel free to get in touch through <a href="https://twitter.com/PunkPink__">Twitter (X)</a> and <a href="https://discord.com/invite/9HeZN3g75f">Discord</a>.
+* If you think there is something that can be improved in this repository, please feel free to get in touch through <a href="https://twitter.com/PunkPink__" target="_blank">Twitter (X)</a> and <a href="https://discord.com/invite/9HeZN3g75f" target="_blank">Discord</a>.
 
-* This project has been created by <a href="https://punkpink.eth.limo">PunkPink</a> with the generous support of <a href="https://dao.decentraland.org/en/
-)">Decentraland DAO</a>. Visit https://decentraland.org/ to learn more about their commitment to fostering innovation and creativity within the virtual world.
+* This project has been created by <a href="https://punkpink.eth.limo" target="_blank">PunkPink</a> with the generous support of <a href="https://dao.decentraland.org/en/
+)" target="_blank">Decentraland DAO</a>. Visit <a href="https://dao.decentraland.org/en/
+)" target="_blank">https://decentraland.org/</a> to learn more about their commitment to fostering innovation and creativity within the virtual world.
 
 
 <h2>Creating wearables with add-ons</h2>
 <h3>Step 1: Get Blender</h3>
-Blender is a 3D modeling editor, download and install it: https://www.blender.org/download/
+Blender is a 3D modeling editor, download and install it: <a href="https://www.blender.org/download/" target="_blank">https://www.blender.org/download/</a>
 
 <h3>Step 2: Select the add-ons</h3>
 Explore the folders in this repository to find the add-ons that best fit the wearable you want to build.
@@ -35,7 +36,7 @@ Explore the folders in this repository to find the add-ons that best fit the wea
 <h3>Step 5: Publish</h3>
 Go to the Decentraland builder and upload the .GLB file to publish.
 
-* If you want to learn more about building wearables in decentraland visit the official documentation: https://docs.decentraland.org/creator/wearables/wearables-overview/
+* If you want to learn more about building wearables in decentraland visit the official documentation: <a href="https://docs.decentraland.org/creator/wearables/wearables-overview/" target="_blank">https://docs.decentraland.org/creator/wearables/wearables-overview/</a>
 
 
 <h2>Repo structure</h2>
