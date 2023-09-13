@@ -20,34 +20,34 @@ Explore the folders in this repository to find the add-ons that best fit the wea
 * To know how many add-ons you should download according to the category, check the “Parts of a wearable according to category” section.
 
 ### Step 3: Import ###
-– Open Blender and go to File > Import > glTF 2.0 (.glb/.gltf).
+Open Blender and go to File > Import > glTF 2.0 (.glb/.gltf).
 
 [![guide-image-1](https://github.com/Metassive/PunkPink-add-ons/blob/main/guide-images/Guide-1.png)](https://github.com/Metassive/PunkPink-add-ons/blob/main/guide-images/Guide-1.png)
 
-– Go to the folder where you downloaded the add-ons you chose, select them and click on “Import”.
+Go to the folder where you downloaded the add-ons you chose, select them and click on “Import”.
 
 [![guide-image-2](https://github.com/Metassive/PunkPink-add-ons/blob/main/guide-images/Guide-2.png)](https://github.com/Metassive/PunkPink-add-ons/blob/main/guide-images/Guide-2.png)
 
 
 
 ### Step 4: Export ###
-– Select an Add-on and then press the “A” key (this will select all add-ons or meshes).
+Select an Add-on and then press the “A” key (this will select all add-ons or meshes).
 
 [![guide-image-3](https://github.com/Metassive/PunkPink-add-ons/blob/main/guide-images/Guide-3.png)](https://github.com/Metassive/PunkPink-add-ons/blob/main/guide-images/Guide-3.png)
 
-– Press Ctrl+J (this will join all the add-ons into one).
+Press Ctrl+J (this will join all the add-ons into one).
 
 [![guide-image-4](https://github.com/Metassive/PunkPink-add-ons/blob/main/guide-images/Guide-4.png)](https://github.com/Metassive/PunkPink-add-ons/blob/main/guide-images/Guide-4.png)
 
 * Tip: If you click the "Viewport Shading" button you will be able to see how your wearable looks.
 
-– Go to the “Shading” tab.
+Go to the “Shading” tab.
 
-– In the right column there is a ball icon called “Material Properties”, enter there.
+In the right column there is a ball icon called “Material Properties”, enter there.
 
-– A list of materials will appear, with the “-” button located to the right of the list, eliminate materials until only one remains (it doesn't matter which ones you eliminate, only leave one).
+A list of materials will appear, with the “-” button located to the right of the list, eliminate materials until only one remains (it doesn't matter which ones you eliminate, only leave one).
 
-– Go to File > Export > glTF 2.0 (.glb/.gltf), save the final file wherever you want.
+Go to File > Export > glTF 2.0 (.glb/.gltf), save the final file wherever you want.
 
 ### Step 5: Publish ###
 Go to the Decentraland builder and upload the .GLB file to publish.
