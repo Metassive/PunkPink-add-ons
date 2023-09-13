@@ -59,13 +59,17 @@ Go to the Decentraland builder and upload the .GLB file to publish.
 Each of the folders contains files with a GLB extension, these are the add-ons that you must download, on the other hand each of the GLB has a PNG image with the same name so that you can see what the add-on is like before downloading it.
 All add-ons are organized in the following folders:
 
-Feet Folder: Contains all the add-ons of the Feet category: Left base, Right base, Left shoelaces, Right shoelaces, Left sole, Right sole, Left toecap, Right toecap, Left toecap sole and Right toecap sole.
+**Feet folder:** Contains all the add-ons of the Feet category: Left base, Right base, Left shoelaces, Right shoelaces, Left sole, Right sole, Left toecap, Right toecap, Left toecap sole and Right toecap sole.
 
-Lower body folder: Contains all the add-ons of the Lower body category: Waist, Left thigh, Right thigh, Left knee, Right knee, Left leg and Right leg.
+**Female Lower body folder:** Contains all the add-ons of the female Lower body category: Waist, Left thigh, Right thigh, Left knee, Right knee, Left leg and Right leg.
 
-Upper body folder: Contains all the add-ons of the Upper body category: Torso, Neck, Left arm, Right arm, Left elbow, Right elbow, Left forearm and Right forearm.
+**Male Lower body folder:** Contains all the add-ons of the male Lower body category: Waist, Left thigh, Right thigh, Left knee, Right knee, Left leg and Right leg.
 
-Skin Folder: Contains the original body parts with the skin texture of all the previous categories, this is useful if you want to build a wearable with short sleeves or with certain parts exposed such as a thigh, knee, etc.
+**Female Upper body folder:** Contains all the add-ons of the female Upper body category: Torso, Neck, Left arm, Right arm, Left elbow, Right elbow, Left forearm and Right forearm.
+
+**Male Upper body folder:** Contains all the add-ons of the male Upper body category: Torso, Neck, Left arm, Right arm, Left elbow, Right elbow, Left forearm and Right forearm.
+
+**Skin Folder:** Contains the original body parts with the skin texture of all the previous categories, this is useful if you want to build a wearable with short sleeves or with certain parts exposed such as a thigh, knee, etc.
 
 
 ## Parts of a wearable by category ##
