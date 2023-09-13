@@ -19,7 +19,7 @@ Explore the folders in this repository to find the add-ons that best fit the wea
 * To understand how the add-ons are organized in this repository you can check the “Repo structure” section.
 * To know how many add-ons you should download according to the category, check the “Parts of a wearable according to category” section.
 
-<h3>Step 3: Import</h3>h3>
+<h3>Step 3: Import</h3>
 1 - Open Blender and go to File > Import > glTF 2.0 (.glb/.gltf)
 2 – Go to the folder where you downloaded the add-ons you chose, select them and click on “Import”
 *Screenshot 1 and 2
