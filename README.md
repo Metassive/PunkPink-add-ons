@@ -21,16 +21,22 @@ Explore the folders in this repository to find the add-ons that best fit the wea
 
 <h3>Step 3: Import</h3>
 1 - Open Blender and go to File > Import > glTF 2.0 (.glb/.gltf)
+
 2 – Go to the folder where you downloaded the add-ons you chose, select them and click on “Import”
-*Screenshot 1 and 2
+
 
 
 <h3>Step 4: Export</h3>
 1 – Select an Add-on and then press the “A” key (this will select all add-ons or meshes)
+
 2 – Press Ctrl+J (this will join all the add-ons into one)
+
 3 – Go to the “Shading” tab
+
 4 – In the right column there is a ball icon called “Material Properties”, enter there.
+
 5 – A list of materials will appear, with the “-” button located to the right of the list, eliminate materials until only one remains (it doesn't matter which ones you eliminate, only leave one).
+
 6 – Go to File > Export > glTF 2.0 (.glb/.gltf), save the final file wherever you want.
 
 <h3>Step 5: Publish</h3>
