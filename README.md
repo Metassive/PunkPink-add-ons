@@ -22,16 +22,24 @@ Explore the folders in this repository to find the add-ons that best fit the wea
 * To know how many add-ons you should download according to the category, check the “Parts of a wearable according to category” section.
 
 ### Step 3: Import ###
-– Open Blender and go to File > Import > glTF 2.0 (.glb/.gltf)
+– Open Blender and go to File > Import > glTF 2.0 (.glb/.gltf).
+
 [![guide-image-1](https://github.com/Metassive/PunkPink-add-ons/blob/main/guide-images/Guide-1.png)](https://github.com/Metassive/PunkPink-add-ons/blob/main/guide-images/Guide-1.png)
-– Go to the folder where you downloaded the add-ons you chose, select them and click on “Import”
+
+– Go to the folder where you downloaded the add-ons you chose, select them and click on “Import”.
+
+[![guide-image-2](https://github.com/Metassive/PunkPink-add-ons/blob/main/guide-images/Guide-2.png)](https://github.com/Metassive/PunkPink-add-ons/blob/main/guide-images/Guide-2.png)
 
 
 
 ### Step 4: Export ###
-– Select an Add-on and then press the “A” key (this will select all add-ons or meshes)
+– Select an Add-on and then press the “A” key (this will select all add-ons or meshes).
 
-– Press Ctrl+J (this will join all the add-ons into one)
+[![guide-image-3](https://github.com/Metassive/PunkPink-add-ons/blob/main/guide-images/Guide-3.png)](https://github.com/Metassive/PunkPink-add-ons/blob/main/guide-images/Guide-3.png)
+
+– Press Ctrl+J (this will join all the add-ons into one).
+
+[![guide-image-4](https://github.com/Metassive/PunkPink-add-ons/blob/main/guide-images/Guide-4.png)](https://github.com/Metassive/PunkPink-add-ons/blob/main/guide-images/Guide-4.png)
 
 * Tip: If you click the "Viewport Shading" button you will be able to see how your wearable looks.
 
