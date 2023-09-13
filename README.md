@@ -31,6 +31,8 @@ Explore the folders in this repository to find the add-ons that best fit the wea
 
 2 – Press Ctrl+J (this will join all the add-ons into one)
 
+* Tip: If you click the "Viewport Shading" button you will be able to see how your wearable looks.
+
 3 – Go to the “Shading” tab
 
 4 – In the right column there is a ball icon called “Material Properties”, enter there.
