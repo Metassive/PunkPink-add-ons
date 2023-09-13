@@ -3,7 +3,8 @@
 <h2>Abstact</h2>
 This is a repository that contains more than 800 add-ons, which are pieces that you can assemble to create complete and original wearables in Decentraland without having knowledge of 3D modeling. Below are some steps to create a wearable using add-ons.
 
-* If you think there is something that can be improved in this repository, please feel free to get in touch through <a href="https://twitter.com/PunkPink__" target="_blank">Twitter (X)</a> and <a href="https://discord.com/invite/9HeZN3g75f" target="_blank">Discord</a>.
+* If you think there is something that can be improved in this repository, please feel free to get in touch through [https://twitter.com/PunkPink__](Twitter (X)){:target="_blank"}
+<a href="https://twitter.com/PunkPink__" target="_blank">Twitter (X)</a> and <a href="https://discord.com/invite/9HeZN3g75f" target="_blank">Discord</a>.
 
 * This project has been created by <a href="https://punkpink.eth.limo" target="_blank">PunkPink</a> with the generous support of <a href="https://dao.decentraland.org/en/
 )" target="_blank">Decentraland DAO</a>. Visit <a href="https://dao.decentraland.org/en/
