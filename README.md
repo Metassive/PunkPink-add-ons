@@ -16,11 +16,13 @@
 
 <h3>Step 2: Select the add-ons</h3>
 <p>Explore the folders in this repository to find the add-ons that best fit the wearable you want to build.</p>
+
 <p>* To understand how the add-ons are organized in this repository you can check the “Repo structure” section.</p>
+
 <p>* To know how many add-ons you should download according to the category, check the “Parts of a wearable according to category” section.</p>
 
 <h3>Step 3: Import</h3>
-- Open Blender and go to File > Import > glTF 2.0 (.glb/.gltf)
+– Open Blender and go to File > Import > glTF 2.0 (.glb/.gltf)
 
 – Go to the folder where you downloaded the add-ons you chose, select them and click on “Import”
 
@@ -33,7 +35,7 @@
 
 * Tip: If you click the "Viewport Shading" button you will be able to see how your wearable looks.
 
-– Go to the “Shading” tab
+– Go to the “Shading” tab.
 
 – In the right column there is a ball icon called “Material Properties”, enter there.
 
