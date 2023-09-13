@@ -23,7 +23,7 @@
 
 <h3>Step 3: Import</h3>
 – Open Blender and go to File > Import > glTF 2.0 (.glb/.gltf)
-
+[guide-image-1](https://github.com/Metassive/PunkPink-add-ons/blob/main/guide-images/Guide-1.png)
 – Go to the folder where you downloaded the add-ons you chose, select them and click on “Import”
 
 
