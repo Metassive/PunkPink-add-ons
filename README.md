@@ -6,8 +6,8 @@ This is a repository that contains more than 800 add-ons, which are pieces that 
 * If you think there is something that can be improved in this repository, please feel free to get in touch through <a href="https://twitter.com/PunkPink__" target="_blank">Twitter (X)</a> and <a href="https://discord.com/invite/9HeZN3g75f" target="_blank">Discord</a>.
 
 * This project has been created by <a href="https://punkpink.eth.limo" target="_blank">PunkPink</a> with the generous support of <a href="https://dao.decentraland.org/en/
-)" target="_blank">Decentraland DAO</a>. Visit <a href="https://dao.decentraland.org/en/
-)" target="_blank">https://decentraland.org/</a> to learn more about their commitment to fostering innovation and creativity within the virtual world.
+" target="_blank">Decentraland DAO</a>. Visit <a href="https://decentraland.org/en/
+" target="_blank">https://decentraland.org/</a> to learn more about their commitment to fostering innovation and creativity within the virtual world.
 
 
 <h2>Creating wearables with add-ons</h2>
