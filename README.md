@@ -53,6 +53,8 @@ A list of materials will appear, with the “-” button located to the right of
 
 Go to File > Export > glTF 2.0 (.glb/.gltf), save the final file wherever you want.
 
+[![guide-image-7](https://github.com/Metassive/PunkPink-add-ons/blob/main/guide-images/Guide-7.png)](https://github.com/Metassive/PunkPink-add-ons/blob/main/guide-images/Guide-7.png)
+
 ### Step 5: Publish ###
 Go to the Decentraland builder and upload the .GLB file to publish.
 
