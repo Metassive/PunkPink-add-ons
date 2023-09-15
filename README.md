@@ -41,11 +41,15 @@ Press Ctrl+J (this will join all the add-ons into one).
 
 * Tip: If you click the "Viewport Shading" button you will be able to see how your wearable looks.
 
+[![guide-image-5](https://github.com/Metassive/PunkPink-add-ons/blob/main/guide-images/Guide-1.png)](https://github.com/Metassive/PunkPink-add-ons/blob/main/guide-images/Guide-5.png)
+
 Go to the “Shading” tab.
 
 In the right column there is a ball icon called “Material Properties”, enter there.
 
 A list of materials will appear, with the “-” button located to the right of the list, eliminate materials until only one remains (it doesn't matter which ones you eliminate, only leave one).
+
+[![guide-image-6](https://github.com/Metassive/PunkPink-add-ons/blob/main/guide-images/Guide-1.png)](https://github.com/Metassive/PunkPink-add-ons/blob/main/guide-images/Guide-6.png)
 
 Go to File > Export > glTF 2.0 (.glb/.gltf), save the final file wherever you want.
 
