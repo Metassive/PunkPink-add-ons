@@ -77,6 +77,7 @@ All add-ons are organized in the following folders:
 
 [**Skin folder**](https://github.com/Metassive/PunkPink-add-ons/tree/main/Skin): Contains the original body parts with the skin texture of all the previous categories, this is useful if you want to build a wearable with short sleeves or with certain parts exposed such as a thigh, knee, etc.
 
+[**Samples folder**](https://github.com/Metassive/PunkPink-add-ons/tree/main/Samples): Contains a sample of each category.
 
 ## Parts of a wearable by category ##
 ### Feet: ###
